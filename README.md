@@ -1,2 +1,6 @@
-# comparison-of-neural-network-and-feature-based-picture-recognitions-systems-on-the-example-of-traffi
-Comparison between two approaches to recognize contents of a picture: feature-based and deep-learning methods.
+# traffic-signs-recognition-GTSRB
+1. Create a "DATASET" directory in a project folder.
+2. Go to https://sid.erda.dk/public/archives/daaeac0d7ce1152aea9b61d9f1e19370/published-archive.html.
+3. Download the GTSRB_Final_Training_Images.zip.
+4. Unpack it in the "Dataset" directory.
+5. Run main.py.o::wq
